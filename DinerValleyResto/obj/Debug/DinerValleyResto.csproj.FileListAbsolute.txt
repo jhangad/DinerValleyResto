@@ -1,0 +1,9 @@
+C:\Users\John Laurence Hangad\source\repos\DinerValleyResto\DinerValleyResto\bin\Debug\DinerValleyResto.exe.config
+C:\Users\John Laurence Hangad\source\repos\DinerValleyResto\DinerValleyResto\bin\Debug\DinerValleyResto.exe
+C:\Users\John Laurence Hangad\source\repos\DinerValleyResto\DinerValleyResto\bin\Debug\DinerValleyResto.pdb
+C:\Users\John Laurence Hangad\source\repos\DinerValleyResto\DinerValleyResto\obj\Debug\DinerValleyResto.csprojAssemblyReference.cache
+C:\Users\John Laurence Hangad\source\repos\DinerValleyResto\DinerValleyResto\obj\Debug\DinerValleyResto.FormOne.resources
+C:\Users\John Laurence Hangad\source\repos\DinerValleyResto\DinerValleyResto\obj\Debug\DinerValleyResto.Properties.Resources.resources
+C:\Users\John Laurence Hangad\source\repos\DinerValleyResto\DinerValleyResto\obj\Debug\DinerValleyResto.csproj.GenerateResource.cache
+C:\Users\John Laurence Hangad\source\repos\DinerValleyResto\DinerValleyResto\obj\Debug\DinerValleyResto.exe
+C:\Users\John Laurence Hangad\source\repos\DinerValleyResto\DinerValleyResto\obj\Debug\DinerValleyResto.pdb
